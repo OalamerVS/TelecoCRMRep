@@ -1,0 +1,8 @@
+c:\users\osama.alamer\documents\visual studio 2015\Projects\UpdateAccountNameTest\UpdateAccountNameTest\bin\Debug\UpdateAccountNameTest.dll
+c:\users\osama.alamer\documents\visual studio 2015\Projects\UpdateAccountNameTest\UpdateAccountNameTest\bin\Debug\UpdateAccountNameTest.pdb
+c:\users\osama.alamer\documents\visual studio 2015\Projects\UpdateAccountNameTest\UpdateAccountNameTest\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\osama.alamer\documents\visual studio 2015\Projects\UpdateAccountNameTest\UpdateAccountNameTest\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\osama.alamer\documents\visual studio 2015\Projects\UpdateAccountNameTest\UpdateAccountNameTest\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\osama.alamer\documents\visual studio 2015\Projects\UpdateAccountNameTest\UpdateAccountNameTest\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\osama.alamer\documents\visual studio 2015\Projects\UpdateAccountNameTest\UpdateAccountNameTest\obj\Debug\UpdateAccountNameTest.dll
+c:\users\osama.alamer\documents\visual studio 2015\Projects\UpdateAccountNameTest\UpdateAccountNameTest\obj\Debug\UpdateAccountNameTest.pdb
